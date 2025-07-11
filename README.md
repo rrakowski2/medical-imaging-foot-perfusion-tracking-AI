@@ -1,5 +1,9 @@
-## The repository showcases a fully automated thermal perfusion analysis tool built on an AI-powered computer vision model (U-Net implemented in PyTorch). It tracks foot displacement and infers the evolution of selected temperature statistics within plantar angiosomes.
+## Repository Overview
 
-## The functionality is contained within a few scripts rather than being modularized, in order to simplify presentation.
+This repository presents a fully automated thermal perfusion analysis tool powered by an AI-based computer vision model (U-Net implemented in PyTorch). The system tracks foot displacement and infers the progression of selected temperature statistics across plantar angiosomes.
+
+## Implementation Notes
+ 
+To simplify presentation, the core functionality is contained within a small number of scripts rather than being fully modularized.
 
    
